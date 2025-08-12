@@ -12,6 +12,7 @@ As I progress through my academic and professional journey, I have come to reali
 **Programming Languages**
   - Java
   - Python
+    
 **Tools & Methodoloies**
   - Git & GitHub
   - Object-Oriented Design (OOD)
@@ -50,7 +51,8 @@ I now view my profession not merely as a job, but as a calling to serve others t
 I conducted usability testing with two peers and one faculty mentor. Their feedback emphasized:
 Strong personal reflection
 Need for clearer structure and visual consistency
-- **Implemented Feedback:**
+
+**Implemented Feedback:**
  - Added consistent headers and bullet points
  - Reorganized technical sections for clarity
  - Streamlined project descriptions for accessibility by both technical and non-technical readers
@@ -66,18 +68,22 @@ This portfolio is my testimony that Christlike values can and should shape the w
 
 ### Mental Map: Christ Like Software Engineer
 **Center Node:** Christlike Software Engineer
+
 **Integrity in Code and Collaboration**
 - Using GitHub for version control and transparency
 - Reporting dishonesty while offering support
 - Ensuring fairness in group contributions
+
 **Compassionate User Experience Design**
 - Accessibility in UI (BlackJack Game)
 - Respecting diverse user needs
 - Data privacy considerations in design
+
 **Spiritual Disciplines Fueling Excellence**
 - Scripture-guided motivation (Colossians 3:23, D&C 58:27)
 - Humility and patience in team settings
 - Temple reflection to renew purpose
+  
 **Technical Growth Rooted in Purpose**
 - Real Estate System: Modular design and logical thinking
 - Dessert Shop: Usability and interactivity
