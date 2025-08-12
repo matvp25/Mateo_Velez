@@ -4,9 +4,9 @@
 As I progress through my academic and professional journey, I have come to realize that true growth involves not just developing technical proficiency, but also cultivating strong ethical foundations and spiritual maturity. Working in team environments—especially when faced with challenges—has been a significant part of my development. Below, I present experiences that reflect both my professional capabilities and my commitment to personal and spiritual integrity.
 
 ### Professional & Spiritual Goals
-✅ Complete my education (Master’s degree) and continue learning throughout life.
-✅ Connect with people across various industries and create systems that work.
-✅ Stay busy and useful in all aspects of life—personally, professionally, and spiritually.
+- Complete my education (Master’s degree) and continue learning throughout life.
+- Connect with people across various industries and create systems that work.
+- Stay busy and useful in all aspects of life—personally, professionally, and spiritually.
 
 ### Technical Skills
 **Programming Languages**
@@ -50,10 +50,10 @@ I now view my profession not merely as a job, but as a calling to serve others t
 I conducted usability testing with two peers and one faculty mentor. Their feedback emphasized:
 Strong personal reflection
 Need for clearer structure and visual consistency
-**Implemented Feedback:**
-Added consistent headers and bullet points
-Reorganized technical sections for clarity
-Streamlined project descriptions for accessibility by both technical and non-technical readers
+- **Implemented Feedback:**
+ - Added consistent headers and bullet points
+ - Reorganized technical sections for clarity
+ - Streamlined project descriptions for accessibility by both technical and non-technical readers
 These changes mirror the principles I use in software development: clarity, usability, and respect for the end user.
 
 ### Reflective Essay: Alignment of My Portfolio with Evolving Goals 
